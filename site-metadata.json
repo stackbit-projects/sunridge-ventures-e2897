@@ -2,7 +2,7 @@
     "palette": "blue",
     "header": {
         "title": "Libris",
-        "logo_img": "images/Screenshot 2020-12-31 at 1.07.44 PM.png",
+        "logo_img": "images/rainy-cabbage.svg",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
         "nav_links": [
